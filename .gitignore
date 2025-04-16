@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+.ENV/
+env.bak/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python project metadata
+*.egg-info/
+dist/
+build/
+
+# Pytest and coverage
+.coverage
+htmlcov/
+.tox/
+.cache/
+pytest_cache/
+
+# pip environment logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Spyder IDE
+.spyderproject
+.spyproject
+
+# MyPy, Pylint
+.mypy_cache/
+.pytype/
+.pylint.d/
+
+# Jupyter runtime
+.jupyter/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Environment variable definitions
+.env.local
+.env.*.local
+
+# Personal or security-sensitive files
+secrets.env
+credentials.json
