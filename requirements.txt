@@ -10,6 +10,7 @@ regex>=2023.3
 
 # Парсинг и извлечение дат
 dateparser>=1.1
+rapidfuzz
 
 # Для русского языка
 pymorphy2>=0.9
